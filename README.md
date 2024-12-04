@@ -1,11 +1,11 @@
-# **Designing Dense Neural Networks Using the Fashion MNIST Dataset**
+### Building and Training Dense Neural Network for Classifying Images
 
-## **Project Overview**
-This project demonstrates the implementation of a dense neural network (DNN) for classifying images in the **Fashion MNIST dataset**. The goal is to explore DNN architecture design, activation functions, and regularization techniques such as dropout, achieving accurate classification of clothing items.
+#### **Overview**
+This project demonstrates the implementation of a dense neural network (DNN) for classifying images in the **Fashion MNIST dataset**. The goal is to explore DNN architecture design, activation functions, and regularisation techniques such as dropout, achieving accurate classification of clothing items.
 
 ---
 
-## **Motivation**
+#### **Motivation**
 The Fashion MNIST dataset serves as a modern benchmark for evaluating neural network architectures. This project:
 1. Highlights how dropout improves generalization by reducing overfitting.
 2. Compares ReLU activation against traditional Sigmoid.
@@ -13,7 +13,7 @@ The Fashion MNIST dataset serves as a modern benchmark for evaluating neural net
 
 ---
 
-## **Key Features**
+#### **Key Features**
 - **Dataset Handling**:
   - Loads and preprocesses the Fashion MNIST dataset.
   - Splits the dataset into training and testing subsets.
