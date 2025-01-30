@@ -82,6 +82,13 @@ pip install -r requirements.txt
 
 ---
 
+### Productisation  
+This dense neural network (DNN) model for **image classification** can be transformed into a **real-time classification API** that enables businesses and developers to integrate **AI-powered image recognition** into their applications. By optimising the model for **edge deployment on mobile and IoT devices**, it can serve **automated product recognition** for e-commerce platforms, **clothing sorting systems**, or **retail analytics tools**.
+
+### Monetisation  
+The project can be monetised through **API-based licensing**, offering **AI-powered image classification** as a service for e-commerce and retail platforms. A **freemium model** could provide **basic image classification for free**, while premium plans could include **custom model training, faster inference, and batch processing**. Additionally, the system could be licensed to **fashion retailers and inventory management solutions** looking to integrate **AI-driven product categorisation**.
+
+---
 ## **Contributing**
 Contributions are welcome! To contribute:
 1. Fork the repository.
